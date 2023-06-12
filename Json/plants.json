@@ -1,0 +1,564 @@
+[
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden",
+        "discription": "Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br/><br/>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    },
+    {
+        "id": "42a1f7b4",
+        "url": "https://images.pexels.com/photos/65259/flower-bug-close-up-lily-65259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Indian Rose Lotus",
+        "price": "399",
+        "discount": "299",
+        "group": "Aquatic Plant"
+    },
+    {
+        "id": "d45f2e18",
+        "url": "https://media.istockphoto.com/id/1486240209/photo/vibrant-red-dahlia-flower-in-a-garden-bed.jpg?b=1&s=612x612&w=0&k=20&c=apzv7VeATw-QvAMQgMYZ76oafI9yypLBvUzg6uIewzQ=",
+        "name": "Dalia",
+        "price": "399",
+        "discount": "299",
+        "group": "Outdoor Garden"
+    },
+    {
+        "id": "1987f5b2",
+        "url": "https://images.pexels.com/photos/11985895/pexels-photo-11985895.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Alovera",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Medicinal"
+    },
+    {
+        "id": "76cdaa12",
+        "url": "https://images.pexels.com/photos/6898560/pexels-photo-6898560.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chinese Money Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Garden"
+    },
+    {
+        "id": "e923467f",
+        "url": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "ZZ Plant",
+        "price": "399",
+        "discount": "299",
+        "group": "Garden Plant"
+    },
+    {
+        "id": "573b3c69",
+        "url": "https://images.pexels.com/photos/12123235/pexels-photo-12123235.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pathos",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor / Leaf"
+    },
+    {
+        "id": "8a7e61d3",
+        "url": "https://images.pexels.com/photos/7195704/pexels-photo-7195704.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Snake Plant",
+        "price": "599",
+        "discount": "549",
+        "group": "Indoor"
+    },
+    {
+        "id": "bb940257",
+        "url": "https://images.pexels.com/photos/8857324/pexels-photo-8857324.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fiddle Leaf Fig",
+        "price": "399",
+        "discount": "299",
+        "group": "Indoor"
+    }
+]
